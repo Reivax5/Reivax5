@@ -58,7 +58,7 @@
 
 <details>
   <summary>📚 Languages</summary>
-  
+## 📚 Languages
 <div align="center">
 
   | Language           | Hours / Day           | Years   |
