@@ -67,8 +67,8 @@
   | Language           | Hours / Day           | Years   |
   | :------: | :---------: | :-----: |
   | <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | 10 Hours / Day | 1+ year |
-  | <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> | 3 Hours / Day | ~1 year | 
-  | <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | 4 Hours / Day | ~3 months |\
+  | <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> | 8 Hours / Day | ~1 year | 
+  | <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | 2 Hours / Day | ~3 months |\
 </div>
   
 <div align="center">
