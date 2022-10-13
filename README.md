@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  An Epitech Barcelona 1st-year student with a 🥇 3.05 GPA !
+  An Epitech Barcelona 2nd-year student with a 🥇 3.05 GPA !
 </p>
 
 
@@ -36,6 +36,20 @@
 
 <details>
   <summary>📃 Resume</summary>
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+
+- 💻 **Data Engineer Intern**\
+📆 1st August 2022 - 23rd December 2022\
+📍 **Amenitiz** - Barcelona, Spain
+
 
 
 ## Education
