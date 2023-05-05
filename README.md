@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  An Epitech Barcelona 2nd-year student with a 🥇 3.05 GPA !
+  An Epitech Barcelona 2nd-year student with a 🥇 3.27 GPA !
 </p>
 
 
