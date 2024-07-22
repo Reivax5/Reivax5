@@ -33,6 +33,9 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:aymeric.fisselier@epitech.eu'>aymeric.fisselier@epitech.eu</a>
 </p>
+<p align='center'>
+<img alt="Static Badge" src="https://img.shields.io/badge/Book_a_Meeting-%23125EF8?style=for-the-badge&logo=googlecalendar&logoColor=fff&link=calendar.google.com%2Fcalendar%2Fappointments%2Fschedules%2FAcZssZ2Byd5Hb9eGLh1aZ8X8UUglRd2OoEYBxK1LfzboIVSw59nPhzzpDlyp5vOqvwADkOE5v1Q2d2kM">
+</p>
 
 <details>
   <summary>📃 Resume</summary>
